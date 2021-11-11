@@ -4,6 +4,8 @@ Este é um passo a passo de como subir projetos no GitHub utilizando linha de co
 
 Com o Git Bash (https://gitforwindows.org/) já baixado e instalado, faça os seguintes passos:
 
+Primeiro, crie um repositório no GitHub clicando em sua foto, depois em Your profile, repositórios e no botão New. Depois, siga as instruções abaixo:
+
 1. Clicar com o botão direito na pasta a ser adicionada e depois em “Git Bash Here”
 
 2. git init (inicializar a pasta a ser adicionada)
