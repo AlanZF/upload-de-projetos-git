@@ -16,11 +16,11 @@ Primeiro, crie um repositório no GitHub clicando em sua foto, depois em Your pr
 
 5. git status (lista tudo o que será enviado para o GitHub)
 
-6. git commit -m “a descrição que você preferir”
+6. git commit -m ca descrição que você preferir”
 
 7. git remote add origin "url do repositório que você criou"
 
-8. git push -u origin master
+8. git push -u origin "o nome da branch" (geralmente é master ou main) 
 
 9. Digitar o seu usuário e a sua senha
 
